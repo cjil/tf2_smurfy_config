@@ -1,0 +1,303 @@
+// Mapcycle definition for Ultimate Mapchooser v3.1 by Steell
+"umc_mapcycle"
+{
+        "Payload Maps"
+        {
+                "maps_invote"                   "2"
+                "default_min_time"              "0000"
+                "default_max_time"              "2359"
+                "default_allow_every"   	"0"
+                "group_weight"                  "4"
+                "default_min_players"   	"0"
+
+                "pl_swiftwater_final1"  	{ }
+                "pl_snowycoast"                 { }
+                "pl_badwater"                   { "weight"      "3" }
+                "pl_borneo"                     { "weight"      "2" }
+                "pl_goldrush"                   { "weight"      "2" }
+                "pl_thundermountain"    	{ "weight"      "2" }
+                "pl_upward"                     { "weight"      "3" }
+
+                "pl_cactuscanyon"               { "weight"      "1" }
+                "pl_frontier_final"             { "weight"      "1" }
+                "pl_hoodoo_final"               { "weight"      "1" }
+
+                "pl_vigil_b5"
+	   	{ 
+			"min_players" 	"12" 
+			"weight"	"2"
+		}
+
+                "pl_barnblitz_pro6"
+		{ 
+			"weight"	"2"
+		}
+		"pl_erosion_a7"
+		{
+                        "min_players"   "18"
+		}
+		"pl_timbermill_rc4"
+		{
+			"min_players"	"18"
+		}
+                "pl_shoreleave_a12"
+		{ 
+			"min_players" 	"18"
+		}
+		"pl_manngrove_rc5"
+		{
+			"min_players"	"20"
+		}
+                "pl_boundary_final" 
+		{ 
+			"min_players" 	"20" 
+		}
+                "pl_cashworks_final1"
+		{ 
+			"min_players" 	"20" 
+		}
+                "pl_clifftop_b3"
+		{ 
+			"min_players" 	"20" 
+		}
+                "pl_pier_b20"
+                { 
+			"min_players" 	"20" 
+			"weight"	"2"
+		}
+                "pl_waste_v2"
+		{ 
+			"min_players"	"22"
+		}
+
+                "pl_dustbowl_b4"
+		{ 
+			"min_players" 	"22" 
+                }
+		"pl_escarpment_rc1"
+		{ 
+			"min_players" 	"22" 
+		}
+                "pl_goldrock_rc1"
+		{ 
+			"min_players" 	"22" 
+		}
+                "pl_rust_b7"
+		{ 
+			"min_players" 	"22" 
+		}
+        }
+
+	"Attack & Defend"
+	{
+		"maps_invote"			"2"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"		"0"
+		"group_weight"			"2"
+		"default_min_players"		"0"
+
+		"cp_dustbowl"			{ }
+		"cp_gorge"	 		{ }
+
+		"cp_gravelpit"			{ "min_players"	"18" }
+		"cp_junction"			{ "min_players"	"20" }
+		"cp_mountainlab"		{ "min_players"	"16" }
+		"cp_snowplow"			{ "min_players"	"18" }
+
+		"cp_egypt_final"		{ "min_players"	"20" }
+		"cp_gorge_event"		{ "min_players"	"20" }
+
+		"cp_steel"
+		{
+			"min_players"	"18"
+			"allow_every"	"180"
+			"weight"	"3"
+		}
+	
+		"cp_ferrum_rc1"
+		{
+			"min_players"	"18"
+		}
+		"cp_firewatch"
+		{
+			"min_players"	"18"
+		}
+		"cp_glacier_rc6"
+		{
+			"min_players"	"18"
+		}
+		"cp_upland_rc4"
+		{
+			"min_players"	"18"
+		}	
+
+	}
+	"Control Point"
+	{
+		"maps_invote"			"2"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"		"0"
+		"group_weight"			"2"
+		"default_min_players"		"0"
+
+		"cp_badlands" 			{ }
+		"cp_foundry"			{ }
+		"cp_granary" 			{ }
+		"cp_metalworks"			{ }
+		"cp_sunshine" 			{ }
+		"cp_well"			{ }
+
+		"cp_5gorge" 			{ "min_players"	"16" }
+		"cp_coldfront" 			{ "min_players"	"18" }
+		"cp_fastlane" 			{ "min_players"	"18" }
+		"cp_gullywash_final1" 		{ "min_players"	"16" }
+		"cp_powerhouse" 		{ "min_players"	"12" }
+		"cp_standin_final" 		{ "min_players"	"18" }
+		
+		"cp_croissant_final"
+		{
+			"min_players"	"20"
+		}
+
+		"cp_antiquity_rc1"
+		{ 
+			"min_players"	"20" 
+		}
+		"cp_glassworks_rc6a"
+		{ 
+			"min_players"	"20" 
+		}
+		"cp_stoneyridge_rc1"
+		{ 
+			"min_players"	"20" 
+		}
+		"cp_vanguard"
+		{ 
+			"min_players"	"20" 
+		}
+
+		"cp_process_final"
+		{
+			"min_players"	"14"
+			"allow_every"	"180"
+			"weight"	"2"
+		}
+		"cp_snakewater_final1"
+		{
+			"min_players"	"14"
+			"allow_every"	"180"
+			"weight"	"2"
+		}
+
+	}
+
+        "King of the Hill"
+        {
+                "maps_invote"                   "2"
+                "default_min_time"              "0000"
+                "default_max_time"              "2359"
+                "default_allow_every"   	"0"
+                "group_weight"                  "2"
+                "default_min_players"   	"0"
+
+                "koth_badlands"                 { }
+                "koth_harvest_event"    	{ }
+                "koth_highpass"                 { }
+                "koth_lakeside_final"   	{ }
+                "koth_sawmill"                  { }
+		"koth_lighthouse_rc5"		{ }
+		"koth_maple_ridge_rc2"		{ }
+
+                "koth_king"
+                {
+                        "min_players"   "20"
+                        "allow_every"   "120"
+                }
+                "koth_moonshine_event"
+                {
+                        "min_players"   "20"
+                        "allow_every"   "120"
+                }
+                "koth_product_rc8"
+                {
+                        "min_players"   "20"
+                        "allow_every"   "120"
+                }
+                "koth_sandstone_rc4"
+                {
+                        "min_players"   "20"
+                        "allow_every"   "120"
+                }
+                "koth_maple_ridge_event"
+                {
+                        "min_players"   "18"
+                }
+        }
+
+	"Payload Race"
+	{
+		"maps_invote"			"1"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"		"0"
+		"group_weight"			"1"
+		"default_min_players"		"16"
+
+		"plr_nightfall_final"		{ }
+		"plr_pipeline"			{ }	
+		"plr_hightower"			{ }
+//		"wacky_races_v2"		{ }
+		
+	}
+
+	"Capture the Flag"
+	{
+		"maps_invote"			"1"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"		"0"
+		"group_weight"			"2"
+		"default_min_players"		"18"
+
+		"ctf_infiltration_b12"		
+		{ 
+			"min_players"		"16"
+		}
+		"ctf_converge_b3"		{ }
+		"ctf_haarp"			{ }
+		"ctf_2fort"			{ }
+                "pd_pit_of_death_event"		{ }
+	}
+
+	"Medieval"
+	{
+		"maps_invote"			"1"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"		"90"
+		"group_weight"			"1"
+		"default_min_players"		"20"
+
+		"cp_degrootkeep"		{ }
+		"cp_redfort_b6"			{ }
+		"cp_marienwerder_beta2"		{ }
+		"pl_morrigan_alley_b3"		{ }
+	}
+
+
+	"Pass Time"
+	{
+		"maps_invote" 			"2"
+		"default_min_time"		"0530"
+		"default_max_time"		"1300"
+		"default_allow_every"		"90"
+		"group_weight"			"1"
+		"default_min_players"		"6"
+
+		"pass_brickyard"		{ }
+		"pass_district"			{ }
+		"pass_timbertown"		{ }
+	}
+}

@@ -1,0 +1,149 @@
+// Mapcycle definition for Ultimate Mapchooser v3.1 by Steell
+"umc_mapcycle"
+{
+	"Custom Maps"
+	{
+		"maps_invote"				"5"
+		"default_min_time"			"0000"
+		"default_max_time"			"2359"
+		"default_allow_every"			"0"
+		"default_min_players"			"0"
+		"group_weight"				"1"
+	
+		"arena_backwash_b3"			{ }
+		"arena_boombastic"			{ }
+		"arena_boxx_b1"				{ }
+		"arena_chiron_tl34_a1"			{ }
+		"arena_foggy_crest_b3"			{ }
+		"arena_freefall"			{ }
+		"arena_grappleknife_a1"			{ }
+		"arena_harvest_spooky_a1"		{ }
+		"arena_has_manor_a1"			{ }
+		"arena_mach2"				{ }
+		"arena_monumental_a1"			{ }
+		"arena_nebula"				{ }
+		"arena_saw_final"			{ }
+		"arena_toastierroast_a1"		{ }
+		"arena_watchtower_b3"			{ }
+		"balloon_race_v3_t17"			{ }
+		"billiards"				{ }
+		"cp_alamo"				{ }
+		"cp_antiquity_rc1"			{ }
+		"cp_beachassault_v1"			{ }
+		"cp_croissant_final"			{ }
+		"cp_desertion_rc1"			{ }
+		"cp_desperados_b2"			{ }
+		"cp_dust_joking"			{ }
+		"cp_ferrum_rc1"				{ }
+		"cp_firewatch"				{ }
+		"cp_glacier_rc6"			{ }
+		"cp_glassworks_rc6a"			{ }
+		"cp_helmsdeep_v2"			{ }
+		"cp_lwobtsud"				{ }
+
+//		"cp_nidal_a1a"				{ }
+
+		"cp_marienwerder_beta2"			{ }
+		"cp_overgrown_rc3"			{ }
+		"cp_redfort_b6"				{ }
+		"cp_stoneyridge_rc1"			{ }
+		"cp_tiplevarg"				{ }
+		"cp_upland_rc4"				{ }
+		"cp_volleyball_pool"			{ }
+		"cp_warmfrost_rc1"			{ }
+		"ctf_2fort_merged"			{ }
+		"ctf_2fort_twisted"			{ }
+		"ctf_confine_a2"			{ }
+		"ctf_converge_b3"			{ }
+		"ctf_convoy_v2"				{ }
+		"ctf_haarp"				{ }
+		"ctf_infiltration_b12"			{ }
+		"ctf_teutanic_a1"			{ }
+		"ctf_theskatingrink"			{ }
+		"ctf_trainfort"				{ }
+		"ctf_turbine_pisstaco"			{ }
+		"dom_canalzone2_b4"			{ }
+		"hellpit666"				{ }
+		"jump_detr_v3c"				{ }
+		"King_of_the_Train_final"		{ }
+		"koth_airfield_b7"			{ }
+		"koth_artefact_v1"			{ }
+		"koth_cloudtop_72_b2"			{ }
+		"koth_flood_1-25"			{ }
+		"koth_foolsgrid"			{ }
+		"koth_insomniaplusboredom_a8"		{ }
+		"koth_kittens_final1_rc1_b1_a1"		{ }
+		"koth_lighthouse_rc5"			{ }
+		"koth_lolcano_b3"			{ }
+		"koth_lumberyard"			{ }
+		"koth_monolith"				{ }
+		"koth_namicott_rc4"			{ }
+		"koth_nippletwister_af"			{ }
+		"koth_pacman_wtf_b2"			{ }
+		"koth_party_in_the_usa_a2"		{ }
+		"koth_product_rc8"			{ }
+		"koth_pro_viaduct_rc4"			{ }
+		"koth_sandstone_pro_rc1"		{ }
+		"koth_sandstone_rc4"			{ }
+		"koth_sandvich_b1"			{ }
+		"koth_saw_final"			{ }
+		"koth_traindeath"			{ }
+		"koth_traingrid_b2"			{ }
+		"koth_trainsawlaser_pro_rc1"		{ }
+		"koth_trainsawlaser_rc1"		{ }
+		"koth_trainsawlaser_rc2"		{ }
+		"koth_windmilltrainsaw_b3a"		{ }
+		"pipeball_classic"			{ }
+		"pl_2fort_ce_final"			{ }
+		"pl_auriferous_rc7"			{ }
+		"pl_badwater_pro_v9"			{ }
+		"pl_badwater_rainy"			{ }
+		"pl_badwater_tilt"			{ }
+		"plr_bananabay"				{ }
+		"pl_barnblitz_pro4"			{ }
+		"pl_barnblitz_pro6"			{ }
+		"pl_beerbowl_b6c"			{ }
+		"pl_boundary_final"			{ }
+		"pl_cashworks_final1"			{ }
+		"pl_cliffhanger_v2"			{ }
+		"pl_clifftop_b3"			{ }
+		"pl_corrode_b3c"			{ }
+		"pl_curve"				{ }
+		"pl_deadwood"				{ }
+		"pl_donkeykong_final"			{ }
+		"pl_dustbowl_b4"			{ }
+		"pl_eclipse_rc2"			{ }
+		"pl_enclosure_final"			{ }
+		"pl_erosion_a7"				{ }
+		"pl_escarpment_rc1"			{ }
+		"pl_fifthcurve_b4"			{ }
+		"pl_foris_b5"				{ }
+		"pl_goldrock_rc1"			{ }
+		"pl_manngrove_rc5"			{ }
+		"pl_millstone"				{ }
+		"pl_minepit"				{ }
+		"pl_morrigan_alley_b3"			{ }
+		"pl_nat20_b2b"				{ }
+		"pl_pier_b16"				{ }
+		"pl_pier_b20"				{ }
+		"pl_ququmannz_b5"			{ }
+		"plr_dogbread_b3"			{ }
+		"pl_retawdab"				{ }
+		"plr_highertower"			{ }
+		"plr_hightower_tdm_r5"			{ }
+		"pl_rising_b3"				{ }
+		"plr_orbit_a1"				{ }
+		"pl_rust_b7"				{ }
+		"plr_whalerace_a4a"			{ }
+		"pl_shoreleave_rc1"			{ }
+		"pl_swiftwater_ugc"			{ }
+		"pl_timbermill_rc4"			{ }
+		"pl_upward_abandoned"			{ }
+		"pl_vesper_b4"				{ }
+		"pl_vigil_rc4"				{ }
+		"pl_waste_v2"				{ }
+		"sd_hunted"				{ }
+		"spooky_ravine_a1"			{ }
+		"wacky_races_v2"			{ }
+	}
+}

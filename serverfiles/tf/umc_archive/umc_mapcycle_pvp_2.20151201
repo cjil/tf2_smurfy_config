@@ -1,0 +1,130 @@
+"umc_mapcycle"
+{
+  "Popular Maps"
+  {
+    "maps_invote"  "2"
+
+    "default_min_time"  "0000"
+    "default_max_time"  "2359"
+    "default_allow_every"  "0"
+
+    "pl_snowycoast"          { "weight" "40" }
+    "cp_vanguard"            { "weight" "40" "min_players" "20" }
+    "koth_highpass"          { "weight" "40" }
+    "ctf_landfall"           { "weight" "20" }
+
+    "cp_gorge_event"         { "weight" "10" }
+    "cp_sunshine_event"      { "weight" "5"  "min_players" "22" }
+    "koth_moonshine_event"   { "weight" "10" }
+    "pl_millstone_event"     { "weight" "10" }
+
+    "pd_watergate"           { "weight" "50"  "min_players" "20" }
+
+    "cp_dustbowl"            { "weight" "50" }
+    "pl_badwater"            { "weight" "60" }
+    "pl_frontier_final"      { "weight" "50" }
+    "pl_goldrush"            { "weight" "50" }
+
+    "cp_degrootkeep"         { "weight" "30"  "min_players" "20" }
+    "cp_egypt_final"         { "weight" "25"  "min_players" "20" }
+    "cp_gorge"               { "weight" "50"  "min_players" "20" }
+    "cp_process_final"       {
+      "weight" "20"  "min_players" "20"  "allow_every" "240"
+    }
+    "cp_snakewater_final1"   {
+      "weight" "20"  "min_players" "20"  "allow_every" "240"
+    }
+    "cp_steel"               { "weight" "50"  "min_players" "20" }
+    "koth_pro_viaduct_rc4"   {
+      "weight" "20"  "min_players" "20"  "allow_every" "240"
+    }
+    "pl_barnblitz_pro4"      { "weight" "50"  "min_players" "22" }
+    "plr_hightower"          { "weight" "5"  "min_players" "20" }
+    "plr_nightfall_final"    { "weight" "30"  "min_players" "20" }
+    "plr_pipeline"           { "weight" "25"  "min_players" "20" }
+
+    "cp_snowplow"            { "weight" "50"  "min_players" "20" }
+  }
+
+  "Community Maps" 
+  {
+    "maps_invote"  "2"
+
+    "default_min_time"  "1200"
+    "default_max_time"  "2330"
+    "default_allow_every"  "0"
+
+    // These are here to allow this group to have some stock maps when
+    // there are few players
+    "pl_hoodoo_final"        {
+      "weight" "50"  "min_time" "0000"  "max_time" "2359"
+    }
+    "pl_thundermountain"     {
+      "weight" "50"  "min_time" "0000"  "max_time" "2359"
+    }
+    "pl_upward"              {
+      "weight" "50"  "min_time" "0000"  "max_time" "2359"
+    }
+    "cp_powerhouse"          { "weight" "50"  "min_players" "22" }
+
+    "pl_borneo"              { "weight" "50" }
+
+    "cp_marienwerder_beta2"  {
+      "weight" "10"  "min_players" "22"  "min_time" "2000"  "max_time" "2130"
+    }
+    "cp_sunshine_rc9"        { 
+      "weight" "50"  "min_players" "22"  "max_time "2359"
+    }
+    "cp_redfort_b5"          {
+      "weight" "10"  "min_players" "22"
+    }
+    "ctf_infiltration_b12"   {
+      "weight" "30"  "min_players" "22"
+    }
+    "cp_stoneyridge_rc1"     {
+      "weight" "30"  "min_players" "22"
+    }
+    "ctf_converge_b3"              {
+      "weight" "50"  "min_players" "22"
+    }
+    "ctf_haarp"              {
+      "weight" "50"  "min_players" "22"
+    }
+    "koth_harvest_event"     {
+      "weight" "25"  "min_players" "22"
+    }
+    "koth_sandstone_rc4"     {
+      "weight" "50"  "min_players" "22"  "min_time" "2000"  "max_time" "2230"
+    }
+    //"pipeball_classic"       {
+    //  "weight" "10"  "min_players" "22"  "min_time" "2000"  "max_time" "2230"
+    //}
+    "pl_boundary_final"      {
+      "weight" "50"  "min_players" "22"
+    }
+    "pl_cashworks_final1"    {
+      "weight" "30"  "min_players" "22"
+    }
+    "pl_clifftop_b2"  {
+      "weight" "50"  "min_players" "22"
+    }
+    "pl_dustbowl_b4"         {
+      "weight" "30"  "min_players" "22"
+    }
+    "pl_escarpment_rc1"      {
+      "weight" "50"  "min_players" "22"
+    }
+    "pl_goldrock_rc1"  {
+      "weight" "100"  "min_players" "22"
+    }
+    "pl_pier_b16"  {
+      "weight" "50"  "min_players" "22"
+    }
+    "pl_rust_b7"  {
+      "weight" "50"  "min_players" "22"
+    }
+    "pl_swiftwater_ugc" {
+      "weight" "25"  "min_players" "22"  "allow_every" "240"
+    }
+  }
+}

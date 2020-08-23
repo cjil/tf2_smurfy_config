@@ -1,0 +1,1 @@
+/home/tf2server/serverfiles/tf/addons/sourcemod/configs/sql-init-scripts/sqlite/clientprefs-sqlite.sql

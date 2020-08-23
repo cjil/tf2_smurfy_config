@@ -1,0 +1,48 @@
+"umc_rotation"
+{
+	"Wub Wub #1"
+	{
+		"maps_invote"	"1"
+		"koth_wubwubwub"         { "weight" "50" }
+	}
+	"Wub Wub #2"
+	{
+		"maps_invote"	"1"
+		"koth_wubwubwub"         { "weight" "50" }
+	}
+	"Wub Wub #3"
+	{
+		"maps_invote"	"1"
+		"koth_wubwubwub"         { "weight" "50" }
+	}
+	"Wub Wub #4"
+	{
+		"maps_invote"	"1"
+		"koth_wubwubwub"         { "weight" "50" }
+	}
+	"Wub Wub #5"
+	{
+		"maps_invote"	"1"
+		"koth_wubwubwub"         { "weight" "50" }
+	}
+	"Lolcano #1"
+	{
+		"maps_invote"	"1"
+		"koth_lolcano_b3"        { "weight" "50" }
+	}
+	"TSL #1"
+	{
+		"maps_invote"	"1"
+		"koth_trainsawlaser_rc1"  { "weight" "50" }
+	}
+	"King of the train"
+	{
+		"maps_invote"	"1"
+		"King_of_the_Train_final"  { "weight" "50" }
+	}
+	"Traingrid"
+	{
+		"maps_invote"	"1"
+		"koth_traingrid_b2"  { "weight" "50" }
+	}
+}

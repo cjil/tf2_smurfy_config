@@ -1,0 +1,1 @@
+/home/tf2server/serverfiles/tf/addons/sourcemod/scripting/chat_shadow_filter.sp

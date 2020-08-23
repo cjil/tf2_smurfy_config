@@ -1,0 +1,1 @@
+/home/tf2server/serverfiles/tf/addons/sourcemod/scripting/include/entity_prop_stocks.inc

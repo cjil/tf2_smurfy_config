@@ -1,0 +1,486 @@
+"umc_mapcycle"
+{
+	"Popular Maps"
+	{
+		// Group defaults
+		"maps_invote"		"5"
+		"default_min_time"	"0000"
+		"default_max_time"	"2359"
+		"default_allow_every"	"0"
+
+		// -- MEET YOUR MATCH --
+		"cp_sunshine"
+		{
+			"weight"	"40"
+		}
+		"cp_metalworks"
+		{
+			"weight"	"40"
+		}
+		"pl_swiftwater_final1"
+		{
+			"weight"	"40"
+		}
+		// -- END MEET YOUR MATCH --
+
+
+		// -- TOUGH BREAK --
+		"pl_snowycoast"
+		{
+			"weight"	"40"
+		}
+		"cp_vanguard"		
+		{
+			"weight"	"40" 
+			"min_players"	"20" 
+		}
+		"koth_highpass"
+		{
+			"weight"	"40"
+			"max_players"	"18"
+		}
+		//"ctf_landfall"
+		//{
+		//	"weight"	"20"
+		//}
+		// -- END TOUGH BREAK --
+
+
+		// -- POPULAR --
+		"cp_dustbowl"
+		{
+			"weight"	"50"
+		}
+		"pl_badwater"
+		{
+			"weight"	"60"
+		}
+		"pl_frontier_final"
+		{
+			"weight"	"50"
+		}
+		"pl_goldrush"
+		{
+			"weight"	"50"
+		}
+
+		"cp_degrootkeep"	
+		{
+			"weight"	"5"
+			"min_players"	"20"
+		}
+		"cp_egypt_final"
+		{
+			"weight"	"25"
+			"min_players"	"20"
+		}
+		"cp_gorge"
+		{ 
+			"weight"	"50"
+			"min_players"	"20" 
+		}
+		"cp_process_final"	
+		{
+			"weight"	"20"
+			"min_players"	"20"
+			"allow_every"	"240"
+		}
+		"cp_snakewater_final1"
+		{
+			"weight"	"20"
+			"min_players"	"20"
+			"allow_every"	"240"
+		}
+		"cp_steel"
+		{
+			"weight"	"50"
+			"min_players"	"20"
+		}
+		//"koth_pro_viaduct_rc4"
+		//{
+		//	"weight"	"20"
+		//	"min_players"	"20"
+		//	"allow_every"	"240"
+		//}
+		//"pl_barnblitz_pro4"
+		//{
+		//	"weight"	"50"
+		//	"min_players"	"18"
+		//}
+		//"plr_hightower"
+		//{
+		//	"weight"	"5"
+		//	"min_players"	"20"
+		//}
+		"plr_nightfall_final"
+		{
+			"weight"	"30"
+			"min_players"	"20"
+		}
+		"plr_pipeline"
+		{
+			"weight"	"25"
+			"min_players"	"20"
+		}
+		"cp_5gorge"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_badlands"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_coldfront"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_fastlane"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_granary"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_gravelpit"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_gullywash_final1"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_junction"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_mountainlab"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_standin_final"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"cp_well"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"koth_lakeside_final"
+		{
+			"weight"	"15"
+			"max_players"	"20"
+		}
+		"koth_badlands"
+		{
+			"weight"	"15"
+			"max_players"	"20"
+		}
+		"cp_foundry"
+		{
+			"weight"	"15"
+			"min_players"	"18"
+		}
+		"koth_king"
+		{
+			"weight"	"15"
+			"max_players"	"20"
+		}
+		"koth_sawmill"
+		{
+			"weight"	"15"
+			"max_players"	"20"
+		}
+		// -- END POPULAR --
+	}
+
+	"Community Maps" 
+	{
+		// Group defaults
+		"maps_invote" 		"5"
+		"default_min_time"	"1200"
+		"default_max_time"	"2330"
+		"default_allow_every"	"0"
+
+
+		// -- DEFAULT MAPS --
+		// These are here to allow this group to have some stock maps when
+		// there are few players
+		"pl_hoodoo_final"
+		{
+			"weight"	"50"
+			"min_time"	"0000"
+			"max_time"	"2359"
+		}
+		"pl_thundermountain"
+		{
+			"weight"	"50"
+			"min_time"	"0000"
+			"max_time"	"2359"
+		}
+		"pl_upward"
+		{
+			"weight"	"50"
+			"min_time"	"0000"
+			"max_time"	"2359"
+		}
+		"pl_cactuscanyon"
+		{
+			"weight"	"50"
+			"min_time"	"0000"
+			"max_time"	"2359"
+		}
+		// -- END DEFAULT MAPS --
+
+		// -- INVASION --
+		//"pd_watergate"
+		//{
+		//	"weight"	"50"
+		//	"min_players"	"20"
+		//}
+		// -- END INVASION --
+
+
+		// -- HALLOWEEN 2015 --
+		"cp_gorge_event"
+		{
+			"weight"	"1"
+			"min_time"	"0000"
+		}
+		"koth_moonshine_event"
+		{
+			"weight"	"1"
+			"min_time"	"0000"
+			"max_players"	"20"
+		}
+		"pl_millstone_event"
+		{
+			"weight"	"1"
+			"min_time"	"0000"
+		}
+		//"cp_sunshine_event"		
+		//{
+		//	"weight"	"5"
+		//	"min_players"	"22"
+		//}
+		// -- END HALLOWEEN 2015 --
+
+
+		// -- GUN METTLE --
+		"cp_snowplow"
+		{
+			"weight"	"50"
+			"min_players"	"22"
+		}
+		"cp_powerhouse"
+		{
+			"weight"	"50"
+			"min_players"	"18"
+		}
+		"pl_borneo"
+		{
+			"weight"	"50"
+		}
+		// -- END GUN METTLE --
+
+
+		// -- COMMUNITY MAPS --
+
+		"pl_shoreleave_a6"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+			"max_time"	"2359"
+		}
+		"cp_sulfur_b3"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+			"max_time"	"2359"
+		}	
+		"cp_marienwerder_beta2"
+		{
+			"weight"	"10"
+			"min_players"	"20"
+			"min_time"	"2000"
+			"max_time"	"2130"
+		}
+		//"cp_sunshine_rc9"
+		//{
+		//	"weight"	"25"
+		//	"min_players"	"20"
+		//	"max_time"	"2359"
+		//}
+		"cp_redfort_b6"
+		{
+			"weight"	"10"
+			"min_players"	"20"
+		}
+		"ctf_infiltration_b12"
+		{
+			"weight"	"30"
+			"min_players"	"20"
+		}
+		"cp_stoneyridge_rc1"
+		{
+			"weight"	"30"
+			"min_players"	"20"
+		}
+		"ctf_converge_b3"
+		{
+			"weight"	"50"
+			"min_players"	"22"
+		}
+		"ctf_haarp"
+		{
+			"weight"	"50"
+			"min_players"	"22"
+		}
+		"koth_harvest_event"
+		{
+			"weight"	"25"
+			"min_players"	"16"
+		}
+		"koth_product_rc8"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+			"allow_every"	"120"
+		}
+		"koth_sandstone_rc4"
+		{
+			"weight"	"50"
+			"min_players"	"22"
+			"min_time"	"2000"
+			"max_time"	"2230"
+		}
+		//"pipeball_classic"
+		//{
+		//	"weight"	"10"
+		//	"min_players"	"22"
+		//	"min_time"	"2000"
+		//	"max_time"	"2230"
+		//}
+		"pl_boundary_final"
+		{
+			"weight"	"50"
+			"min_players"	"20"
+		}
+		"pl_cashworks_final1"
+		{
+			"weight"	"30"
+			"min_players"	"20"
+		}
+		"pl_clifftop_b3"
+		{
+			"weight"	"50"
+			"min_players"	"22"
+		}
+		"pl_dustbowl_b4"
+		{
+			"weight"	"30"
+			"min_players"	"22"
+		}
+		"pl_escarpment_rc1"
+		{
+			"weight"	"50"
+			"min_players"	"22"
+		}
+		"pl_goldrock_rc1"
+		{
+			"weight"	"10"
+			"min_players"	"22"
+		}
+		//"pl_pier_b16"
+		//{
+		//	"weight"	"50"
+		//	"min_players"	"20"
+		//}
+		"pl_pier_b20"
+		{
+			"weight"	"50"
+			"min_players"	"20"
+		}
+		"pl_rust_b7"
+		{
+			"weight"	"50"
+			"min_players"	"22"
+		}
+		//"pl_swiftwater_ugc"
+		//{
+		//	"weight"	"25"
+		//	"min_players"	"20"
+		//	"allow_every"	"240"
+		//}
+		"cp_glassworks_rc6a"
+		{
+			"weight"	"25"
+			"min_players"	"18"
+		}
+		"pl_barnblitz_pro6"
+		{
+			"weight"	"35"
+			"min_players"	"18"
+		}
+		//"pl_barnblitz_pro7c"
+		//{
+		//	"weight"	"15"
+		//	"min_players"	"22"
+		//}
+		"pl_badwater_pro_v9"
+		{
+			"weight"	"35"
+			"min_players"	"20"
+		}
+		"cp_antiquity_rc1"
+		{
+			"weight"	"15"
+			"min_players"	"18"
+		}
+		"pl_waste_v2"
+		{
+			"weight"	"15"
+			"min_players"	"20"
+		}
+		"pl_dawns_vigil_a14c"
+		{
+			"weight"	"15"
+			"min_players"	"14"
+		}
+		//"pl_fifthcurve_b4"
+		//{
+		//	"weight"	"15"
+		//	"min_players"	"20"
+		//}
+		// -- END COMMUNITY MAPS --
+
+		// -- PASS TIME MAPS --
+		"pass_brickyard"
+		{
+			"weight"	"5"
+			"min_players"	"12"
+		}
+		"pass_district"
+		{
+			"weight"	"5"
+			"min_players"	"12"
+		}
+		"pass_timbertown"
+		{
+			"weight"	"5"
+			"min_players"	"12"
+		}
+		// -- END PASS TIME MAPS
+	}
+}

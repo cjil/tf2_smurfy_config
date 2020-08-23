@@ -1,0 +1,1 @@
+/home/tf2server/serverfiles/tf/addons/sourcemod/scripting/curl_self_test.sp

@@ -1,0 +1,38 @@
+// Mapcycle definition for Ultimate Mapchooser v3.1 by Steell
+"umc_mapcycle"
+{
+	"Arena Maps"
+	{
+		"maps_invote"				"5"
+		"default_min_time"			"0000"
+		"default_max_time"			"2359"
+		"default_allow_every"			"0"
+		"default_min_players"			"0"
+		"group_weight"				"1"
+	
+		"arena_backwash_b3"			{ }
+		"arena_chiron_tl34_a1"			{ }
+		"arena_foggy_crest_b3"			{ }
+		"arena_freefall"			{ }
+		"arena_grappleknife_a1"			{ }
+		"arena_harvest_spooky_a1"		{ }
+		"arena_has_manor_a1"			{ }
+		"arena_mach2"				{ }
+		"arena_monumental_a1"			{ }
+		"arena_saw_final"			{ }
+		"arena_toastierroast_a1"		{ }
+		"arena_watchtower_b3"			{ }
+		"arena_hardhat_b2a"			{ }
+		"arena_yanqing_b2"			{ }
+		"arena_badlands"			{ }
+		"arena_byre"				{ }
+		"arena_granary"				{ }
+		"arena_lumberyard"			{ }
+		"arena_nucleus"				{ }
+		"arena_offblast_final"			{ }
+		"arena_ravine"				{ }
+		"arena_sawmill"				{ }
+		"arena_watchtower"			{ }
+		"arena_well"				{ }
+	}
+}

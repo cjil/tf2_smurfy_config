@@ -1,0 +1,152 @@
+umc_rotation
+{
+
+	"Attack & Defend"
+	{
+		"maps_invote"			"1"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"	"0"
+		"group_weight"			"3"
+		"default_min_players"	"0"
+
+		"cp_dustbowl"			{ }
+		"cp_gorge_event" 		{ }
+
+		"cp_gravelpit"			{ "min_players"	"18" }
+		"cp_junction"			{ "min_players"	"18" }
+		"cp_mountainlab"		{ "min_players"	"18" }
+		"cp_snowplow"			{ "min_players"	"18" }
+
+		"cp_egypt_final"		{ "min_players"	"20" }
+		"cp_gorge"				{ "min_players"	"20" }
+
+		"cp_steel"
+		{
+			"min_players"	"18"
+			"allow_every"	"180"
+		}
+
+	}
+	"Control Point"
+	{
+		"maps_invote"			"2"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"	"0"
+		"group_weight"			"3"
+		"default_min_players"	"0"
+
+		"cp_badlands" 			{ }
+		"cp_foundry"			{ }
+		"cp_granary" 			{ }
+		"cp_metalworks"			{ }
+		"cp_sunshine" 			{ }
+		"cp_well"				{ }
+
+		"cp_5gorge" 			{ "min_players"	"18" }
+		"cp_coldfront" 			{ "min_players"	"18" }
+		"cp_fastlane" 			{ "min_players"	"18" }
+		"cp_gullywash_final1" 	{ "min_players"	"18" }
+		"cp_powerhouse" 		{ "min_players"	"18" }
+		"cp_standin_final" 		{ "min_players"	"18" }
+
+		"cp_antiquity_rc1" 		{ "min_players"	"20" }
+		"cp_glassworks_rc6a" 	{ "min_players"	"20" }
+		"cp_marienwerder_beta2" { "min_players"	"20" }
+		"cp_stoneyridge_rc1" 	{ "min_players"	"20" }
+		"cp_sulfur_b3" 			{ "min_players"	"20" }
+		"cp_vanguard"			{ "min_players"	"20" }
+
+		"cp_process_final"
+		{
+			"min_players"	"18"
+			"allow_every"	"180"
+		}
+		"cp_snakewater_final1"
+		{
+			"min_players"	"18"
+			"allow_every"	"180"
+		}
+
+	}
+
+	"Payload Maps"
+	{
+		"maps_invote"			"3"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"	"0"
+		"group_weight"			"4"
+		"default_min_players"	"0"
+
+		"pl_swiftwater_final1" 	{ }
+		"pl_snowycoast"			{ }
+		"pl_millstone_event" 	{ }
+		"pl_badwater"			{ "weight"	"12" }
+		"pl_borneo"				{ "weight"	"12" }
+		"pl_goldrush"			{ "weight"	"12" }
+		"pl_thundermountain"	{ "weight"	"12" }
+		"pl_upward"				{ "weight"	"12" }
+
+		"pl_cactuscanyon"		{ "weight"	"10" }
+		"pl_frontier_final"		{ "weight"	"10" }
+		"pl_hoodoo_final" 		{ "weight"	"10" }
+
+		"pl_vigil_rc4"	{ "min_players"	"14" }
+
+		"pl_barnblitz_pro6"		{ "min_players"	"18" }
+		"pl_shoreleave_rc1"		{ "min_players"	"18" }
+
+		"pl_badwater_pro_v9"	{ "min_players"	"20" }
+		"pl_boundary_final"		{ "min_players"	"20" }
+		"pl_cashworks_final1"	{ "min_players"	"20" }
+		"pl_clifftop_b3"		{ "min_players"	"20" }
+		"pl_pier_b20"			{ "min_players"	"20" }
+		"pl_waste_v2"			{ "min_players"	"20" }
+
+		"pl_dustbowl_b4"		{ "min_players"	"22" }
+		"pl_escarpment_rc1"		{ "min_players"	"22" }
+		"pl_goldrock_rc1"		{ "min_players"	"22" }
+		"pl_rust_b7"			{ "min_players"	"22" }
+	}
+
+	"King of the Hill"
+	{
+		"maps_invote"			"2"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"	"0"
+		"group_weight"			"2"
+		"default_min_players"	"0"
+
+		"koth_badlands"			{ }
+		"koth_harvest_event"	{ }
+		"koth_highpass" 		{ }
+		"koth_lakeside_final"	{ }
+		"koth_sawmill"			{ }
+
+		"koth_king"
+		{
+			"min_players"	"20"
+			"allow_every"	"120"
+		}
+		"koth_moonshine_event"
+		{
+			"min_players"	"20"
+			"allow_every"	"120"
+		}
+		"koth_product_rc8"
+		{
+			"min_players"	"20"
+			"allow_every"	"120"
+		}
+		"koth_sandstone_rc4"
+		{
+			"min_players"	"20"
+			"allow_every"	"120"
+		}
+	}
+
+}
+

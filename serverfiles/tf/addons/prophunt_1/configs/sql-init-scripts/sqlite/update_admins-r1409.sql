@@ -1,0 +1,1 @@
+/home/tf2server/serverfiles/tf/addons/sourcemod/configs/sql-init-scripts/sqlite/update_admins-r1409.sql

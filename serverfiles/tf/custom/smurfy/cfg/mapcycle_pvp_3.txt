@@ -1,0 +1,1 @@
+/home/tf2server/serverfiles/tf/cfg/mapcycle_pvp_3.txt

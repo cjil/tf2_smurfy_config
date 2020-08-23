@@ -1,0 +1,1 @@
+/home/tf2server/serverfiles/tf/addons/sourcemod/scripting/disabled/afk_manager.sp

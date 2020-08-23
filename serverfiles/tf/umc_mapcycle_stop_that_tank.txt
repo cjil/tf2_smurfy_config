@@ -1,0 +1,24 @@
+"umc_rotation"
+{
+  "All The Maps"
+  {
+    "maps_invote"  "5"
+
+    "command"      "exec sourcemod/stt_map_limits.cfg"
+
+    "pl_badwater"            { "weight" "50" }
+    "pl_frontier_final"      { "weight" "50" }
+    "pl_goldrush"            { "weight" "50" }
+    //"plr_hightower"          { "weight" "50" }
+    "pl_hoodoo_final"        { "weight" "50" }
+    "pl_thundermountain"     { "weight" "50" }
+    "plr_pipeline"           { "weight" "50" }
+    "pl_upward"              { "weight" "50" }
+    "pl_barnblitz"           { "weight" "50" }
+    "plr_nightfall_final"    { "weight" "50" }
+    "pl_cactuscanyon"        { "weight" "30" }
+    "plr_hightower_event"    { "weight" "20" }
+    "pl_borneo"              { "weight" "50" }
+    "pl_millstone_event"     { "weight" "200" }
+  }
+}

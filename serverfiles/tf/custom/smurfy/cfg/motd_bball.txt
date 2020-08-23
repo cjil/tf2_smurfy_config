@@ -1,0 +1,17 @@
+Welcome to Smurfy Basketball!!
+
+The goal is to dunk the intel into your opponent's net, just
+like basketball.
+
+Only Soldiers are allowed, shotguns are disabled.
+Soldiers should equip the Gunboats to minimise RJ damage.
+
+NOTE: The Rocket Jumper does NOT allow you to pickup the Intel.
+
+Games work best when it's 2v2 or 3v3, this server is locked
+to 2v2.  If there are more than 4 players the extra players are forced
+to spectate.
+
+Games end at 10 points, please let everyone have a turn. :)
+
+Stay Smurfy!

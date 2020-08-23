@@ -1,0 +1,520 @@
+// Mapcycle definition ftr Ultimate Mapchooser v3.1 by Steell
+"umc_mapcycle"
+{
+	"Payload and CTF"
+	{
+		"maps_invote"                   "3"
+		"default_min_time"              "0000"
+		"default_max_time"              "2359"
+		"default_allow_every"  		"0"
+		"group_weight"                  "4"
+		"default_min_players"  		"0"
+
+                "koth_bagel_event" {}
+                "koth_slasher" {}
+                "pd_cursed_cove_event" {}
+                "pd_monster_bash" {}
+                "pl_rumble_event" {}
+		
+		"pl_swiftwater_final1" 		{ "weight" "5" }
+		"pl_snowycoast"                 { "weight" "2" }
+		"pl_badwater"                   { "weight" "5" }
+		"pl_borneo"                     { "weight" "5" }
+		"pl_goldrush"                   { "weight" "4" }
+		"pl_thundermountain"   		{ "weight" "4" }
+		"pl_upward"                     { "weight" "5" }
+
+		"pl_cactuscanyon"               { "weight" "1" }
+		"pl_frontier_final"             { "weight" "4" }
+		"pl_hoodoo_final"               { "weight" "1" }
+
+		"pl_vigil_rc4"
+		{ 
+			"display"	"pl_virgil"
+			"min_players" 	"12" 
+			"weight"	"5"
+		}
+		"pl_barnblitz_pro6"
+		{ 
+			"weight"	"5"
+		}
+		"pl_erosion_a7"
+		{
+			"min_players"   "18"
+			"weight"	"1"
+		}
+		"pl_timbermill_rc4"
+		{
+			"min_players"	"18"
+			"weight"	"1"
+		}
+		"pl_shoreleave_rc1"
+		{ 
+			"min_players" 	"14"
+			"weight"	"3"
+		}
+		"pl_manngrove_rc5"
+		{
+			"min_players"	"20"
+			"weight"	"1"	
+		}
+		"pl_boundary_final" 
+		{ 
+			"min_players" 	"20" 
+			"weight"	"2"
+		}
+		"pl_cashworks_final1"
+		{ 
+			"min_players" 	"20" 
+			"weight"	"2"
+		}
+		"pl_clifftop_b3"
+		{ 
+			"min_players" 	"20" 
+			"weight"	"2"
+		}
+		"pl_pier_b20"
+		{ 
+			"min_players" 	"20" 
+			"weight"	"5"
+		}
+		"pl_waste_v2"
+		{ 
+			"min_players"	"22"
+			"weight"	"1"
+		}
+
+		"pl_dustbowl_b4"
+		{ 
+			"min_players" 	"22"
+			"weight"	"1" 
+		}
+		"pl_escarpment_rc1"
+		{ 
+			"min_players" 	"22"
+			"weight"	"2" 
+		}
+		"pl_enclosure_final"
+		{
+			"weight"	"3"
+		}
+		"pl_goldrock_rc1"
+		{ 
+			"min_players" 	"22"
+			"weight"	"1"
+		}
+		"pl_rust_b7"
+		{ 
+			"min_players" 	"22"
+			"weight"	"1"
+		}
+		"plr_nightfall_final"
+		{
+			"min_players"	"14"
+                        "weight"        "5"
+		}
+		"plr_pipeline"
+		{
+			"min_players"	"14"
+                        "weight"        "5"
+		}	
+		"plr_hightower"
+		{
+			"min_players"	"0"
+                        "weight"        "1"
+		}
+		"plr_hightower_event"
+		{
+			"min_players"	"24"
+                        "weight"        "1"
+		}
+
+		"pl_morrigan_alley_b3"
+		{
+			"min_players"	"20"
+			"allow_every"	"90"
+                        "weight"        "1"
+		}
+		"plr_bananabay"
+		{
+			"min_players"	"20"
+                        "weight"        "1"
+		}
+
+		"ctf_infiltration_b12"		
+		{ 
+			"min_players"	"16"
+                        "weight"        "3"
+		}
+		"ctf_converge_b3"
+		{
+			"min_players"	"16"
+                        "weight"        "1"
+		}
+		"ctf_haarp"
+		{
+			"min_players"	"16"
+                        "weight"        "1"
+		}
+		"ctf_2fort"
+		{
+			"min_players"	"20"
+                        "weight"        "1"
+		}
+		"ctf_sawmill"
+		{
+			"min_players"	"14"
+                        "weight"        "1"
+		}
+		"ctf_landfall"
+		{
+			"min_players"	"16"
+                        "weight"        "1"
+		}
+		"ctf_well"
+		{
+			"min_players"	"16"
+                        "weight"        "1"
+		}
+		"ctf_doublecross"
+		{
+			"min_players"	"14"
+                        "weight"        "1"
+		}
+		"ctf_foundry"
+		{
+			"min_players"	"24"
+                        "weight"        "1"
+		}
+		"ctf_gorge"
+		{
+			"min_players"	"24"
+                        "weight"        "1"
+		}
+		"ctf_hellfire"
+		{
+			"min_players"	"24"
+                        "weight"        "1"
+		}
+		"ctf_thundermountain"
+		{
+			"min_players"	"24"
+                        "weight"        "1"
+		}
+		"ctf_turbine"
+		{
+			"min_players"	"22"
+                        "weight"        "1"
+		}
+		"pd_pit_of_death_event"
+		{
+			"min_players"	"16"
+                        "weight"        "1"
+		}
+	}
+
+	"Capture Point & KOTH"
+	{
+		"maps_invote"			"2"
+		"default_min_time"		"0000"
+		"default_max_time"		"2359"
+		"default_allow_every"		"0"
+		"group_weight"			"2"
+		"default_min_players"		"0"
+
+		"cp_dustbowl"			{ "weight" "5" }
+		"cp_gorge"	 		{ "weight" "5" }
+
+		"cp_chloride_a1"
+		{
+			"display"	"cp_chloe"
+			"weight"	"5"
+			"min_players"	"18"
+		}
+
+		"cp_gravelpit"
+		{ 
+			"min_players"	"18"
+			"weight"	"3" 
+		}
+		"cp_junction"
+		{ 
+			"min_players"	"20"
+                        "weight"        "1"
+		}
+		"cp_mountainlab"
+		{
+			"min_players"	"16"
+                        "weight"        "3"
+		}
+		"cp_mercenarypark"
+		{
+			"weight"	"5"
+		}
+		"cp_mossrock"
+		{
+			"weight"	"5"
+		}
+		"cp_snowplow"
+		{
+			"min_players"	"18"
+                        "weight"        "1"
+		}
+
+		"cp_egypt_final"
+		{
+			"min_players"	"20"
+                        "weight"        "1"
+		}
+		"cp_gorge_event"
+		{
+			"min_players"	"20"
+                        "weight"        "1"
+		}
+
+		"cp_steel"
+		{
+			"min_players"	"16"
+			"allow_every"	"180"
+			"weight"	"4"
+		}
+	
+		"cp_ferrum_rc1"
+		{
+			"min_players"	"18"
+                        "weight"        "3"
+		}
+		"cp_firewatch"
+		{
+			"min_players"	"18"
+                        "weight"        "1"
+		}
+		"cp_glacier_rc6"
+		{
+			"min_players"	"18"
+                        "weight"        "3"
+		}
+		"cp_upland_rc4"
+		{
+			"min_players"	"18"
+                        "weight"        "1"
+		}
+
+		"cp_badlands"
+		{
+                        "weight"        "3"
+		}
+		"cp_foundry"
+		{
+                        "weight"        "3"
+		}
+		"cp_granary"
+		{
+                        "weight"        "5"
+		}
+		"cp_metalworks"
+		{
+                        "weight"        "5"
+		}
+		"cp_sunshine"
+		{
+                        "weight"        "5"
+		}
+		"cp_well"
+		{
+                        "weight"        "2"
+		}
+
+		"cp_5gorge"
+		{
+			"min_players"	"16"
+                        "weight"        "4"
+		}
+		"cp_coldfront"
+		{
+			"min_players"	"18"
+                        "weight"        "4" 
+		}
+		"cp_fastlane"
+		{
+			"min_players"	"18"
+                        "weight"        "3"
+		}
+		"cp_gullywash_final1" 
+		{
+			"min_players"	"16"
+                        "weight"        "3"
+		}
+		"cp_powerhouse"
+		{
+			"min_players"	"12"
+                        "weight"        "3"
+		}
+		"cp_standin_final"
+		{
+			"min_players"	"18"
+                        "weight"        "3"
+		}
+		"cp_croissant_final"
+		{
+			"min_players"	"20"
+                        "weight"        "1"
+		}
+
+		"cp_antiquity_rc1"
+		{ 
+			"min_players"	"20"
+                        "weight"        "2" 
+		}
+		"cp_freight"
+		{
+			"min_players"	"20"
+                        "weight"        "2"
+		}
+		"cp_manor_event"
+		{
+			"min_players"	"18"
+                        "weight"        "3"
+		}
+		"cp_glassworks_rc6a"
+		{ 
+			"min_players"	"20"
+                        "weight"        "2" 
+		}
+		"cp_stoneyridge_rc1"
+		{ 
+			"min_players"	"20"
+                        "weight"        "2" 
+		}
+		"cp_vanguard"
+		{ 
+			"min_players"	"20"
+                        "weight"        "3" 
+		}
+
+		"cp_process_final"
+		{
+			"min_players"	"14"
+			"allow_every"	"180"
+			"weight"	"3"
+		}
+		"cp_snakewater_final1"
+		{
+			"min_players"	"14"
+			"allow_every"	"90"
+			"weight"	"5"
+		}
+		"cp_overgrown_rc3"
+		{
+			"min_players"	"16"
+                        "weight"        "4"
+		}
+		"cp_mossrock_rc5"
+		{
+			"min_players"	"16"
+                        "weight"        "4"
+		}
+		"dom_canalzone2_b4"
+		{
+			"min_players"	"18"
+                        "weight"        "1"
+		}
+
+		"koth_badlands"			{ "weight" "4" }
+		"koth_brazil"			{ "weight" "5" }
+		"koth_harvest_event"		{ "weight" "5" }
+		"koth_harvest_final"		{ "weight" "5" }
+		"koth_highpass"			{ "weight" "4" }
+		"koth_lakeside_final"   	{ "weight" "4" }
+		"koth_lazarus"			{ "weight" "5" }
+		"koth_sawmill"			{ "weight" "4" }
+		"koth_lighthouse_rc5"		{ "weight" "1" }
+		"koth_maple_ridge_rc2"		{ "weight" "4" }
+		"koth_suijin"			{ "weight" "4" }
+		"koth_viaduct"			{ "weight" "5" }
+
+		"koth_king"
+		{
+			"min_players"   "20"
+			"allow_every"   "120"
+			"weight"	"1"
+		}
+		"koth_moonshine_event"
+		{
+			"min_players"   "20"
+			"allow_every"   "120"
+			"weight"	"1"
+		}
+		"koth_product_rc8"
+		{
+			"min_players"   "20"
+			"allow_every"   "120"
+			"weight"	"5"
+		}
+		"koth_sandstone_rc4"
+		{
+			"min_players"   "20"
+			"allow_every"   "120"
+			"weight"	"1"
+		}
+		"koth_maple_ridge_event"
+		{
+			"min_players"   "18"
+			"weight"	"1"
+		}
+		"koth_nucleus"
+		{
+			"min_players"	"18"
+			"weight"	"4"
+		}
+		"koth_ashville_rc1"
+		{
+			"min_players"	"16"
+			"weight"	"3"
+		}
+
+		"cp_degrootkeep"
+		{
+			"min_players"	"20"
+			"allow_every"	"90"
+			"weight"	"5"
+		}
+		"cp_redfort_b6"
+		{
+			"min_players"	"20"
+			"allow_every"	"90"
+			"weight"	"1"
+		}
+		"cp_marienwerder_beta2"
+		{
+			"min_players"	"20"
+			"allow_every"	"90"
+			"weight"	"1"
+		}
+		//"tc_hydro"
+		//{
+		//	"min_players"	"22"
+		//	"allow_every"	"90"
+		//	"weight"	"1" 
+		//}
+		"koth_lazarus_rc4"
+		{
+			"min_players"	"14"
+			"weight"	"4"
+		}
+
+	}
+	"Pass Time"
+	{
+		"maps_invote" 			"2"
+		"default_min_time"		"0530"
+		"default_max_time"		"1300"
+		"default_allow_every"		"90"
+		"group_weight"			"1"
+		"default_min_players"		"6"
+
+		"pass_brickyard"		{ }
+		"pass_district"			{ }
+		"pass_timbertown"		{ }
+	}
+}

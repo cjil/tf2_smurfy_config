@@ -1,0 +1,1 @@
+/home/tf2server/serverfiles/tf/addons/sourcemod/translations/es/ultimate-mapchooser.phrases.txt

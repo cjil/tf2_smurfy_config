@@ -1,0 +1,11 @@
+Server is in low players mode:
+  - all talk is enabled
+  - fast respawns are enabled
+
+This is a good time to goof around and get to know your fellow Smurfs whilst
+we wait for enough players to form decent teams.
+
+When the server has 16 players low players mode will be disabled and much
+slaughter shall ensue.
+
+Press 9 to close this message.

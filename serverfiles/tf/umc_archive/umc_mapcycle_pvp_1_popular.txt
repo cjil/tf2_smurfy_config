@@ -1,0 +1,36 @@
+"umc_rotation"
+{
+	"All The Maps"
+	{
+		"maps_invote"	"4"
+
+		"default_min_time"  "0000"
+		"default_max_time"  "2359"
+		"default_allow_every"  "0"
+
+		"cp_gorge_event"         { "weight" "10" }
+		"cp_sunshine_event"      { "weight" "5"  min_players "22" }
+		"koth_moonshine_event"   { "weight" "10" }
+		"pl_millstone_event"     { "weight" "10" }
+
+		"cp_dustbowl"            { "weight" "50" }
+		"pl_badwater"            { "weight" "75" }
+		"pl_frontier_final"      { "weight" "50" }
+		"pl_goldrush"            { "weight" "60" }
+		"pl_hoodoo_final"        { "weight" "50" }
+		"pl_thundermountain"     { "weight" "50" }
+		"pl_upward"              { "weight" "75" }
+
+		"cp_snowplow"            { "weight" "50"  "min_players" "20" }
+		"pl_borneo"              { "weight" "50" }
+		"cp_powerhouse"          { "weight" "50"  "min_players" "24" }
+
+		// Quickplay enabled maps
+		"cp_egypt_final"         { "weight" "20"  "min_players" "20" }
+		"cp_steel"               { "weight" "50"  "min_players" "24" }
+		"plr_nightfall_final"    { "weight" "10"  "min_players" "24" }
+		"plr_pipeline"           { "weight" "10"  "min_players" "24" }
+
+		"pl_barnblitz_pro4"      { "weight" "50"  "min_players" "24" }
+	}
+}
